@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Promo Codes Manager</string>
+    <string name="new_app_name">Name of new app</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="default_alert_title">Error</string>
+</resources>
