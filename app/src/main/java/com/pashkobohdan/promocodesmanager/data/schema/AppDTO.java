@@ -17,6 +17,6 @@ public class AppDTO {
 
     @Override
     public boolean equals(Object obj) {
-        return obj instanceof AppDTO && name.endsWith(((AppDTO)obj).getName());
+        return obj instanceof AppDTO && name.equals(((AppDTO)obj).getName());
     }
 }

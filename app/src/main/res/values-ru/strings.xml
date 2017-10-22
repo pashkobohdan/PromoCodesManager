@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Promo Codes Manager</string>
+    <string name="app_is_already_used">Это приложение уже используется. Попроьуйте другое имя</string>
+    <string name="apps_title">Приложения</string>
+    <string name="cancel">Отменить</string>
+    <string name="coupon_dialog_title">Купон</string>
+    <string name="coupon_was_copied">Купон был скопирован в буфер обмена</string>
+    <string name="coupons_title">Купоны</string>
+    <string name="default_alert_title">Ошибка</string>
+    <string name="default_confirm_title">Подтверждение</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_app_confirm">Вы хотите удалить это приложение ?</string>
+    <string name="delete_coupon_alert">Вы хотите удалить этот купон ?</string>
+    <string name="input_coupons_hint">Введите список купонов (разделенных запятой или каждый в новой строке)</string>
+    <string name="new_app_name">Имя нового приложения</string>
+    <string name="ok">ОК</string>
+    <string name="wrong_app_name">Неправильное имя, попробуйте снова</string>
+</resources>
